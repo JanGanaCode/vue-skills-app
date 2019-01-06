@@ -1,29 +1,15 @@
-# vue-cli
+# VueJS | Skills App
 
-## Project setup
-```
-yarn install
-```
+* ```vue```
+* ```vue-cli```
+* ```vue-router```
+* ```github-pages```
+* ```vee-validate```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+Live preview [here ➟](https://janganacode.github.io/vue-skills-app/ "VueJS | Skills App")
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+<br>
 
-### Run your tests
-```
-yarn run test
-```
+*Screenshots:*
+![Screenshot | VueJS | Skills App](https://github.com/JanGanaCode/vue-skills-app/blob/master/screenshots/screenshots.png)
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
